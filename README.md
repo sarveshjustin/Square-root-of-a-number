@@ -15,6 +15,10 @@ To write a program to find the square root of a number.
 5. Return number
 
 ## Program:
+
+Developed by:sarvesh.s
+
+RegisterNumber: 22003029
 ```
 n1 = int(input())
 x = 1
